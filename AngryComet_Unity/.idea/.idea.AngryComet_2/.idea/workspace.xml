@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a474d9e-01b9-4e8f-9f30-5bec0aa5919c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors/CoinsPickup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors/Abilities/QuickJumpAbility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors/HealthPickup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors/BlackHoleBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors/FollowProjectile/FollowProjectileBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Generation/LevelGeneration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors/FollowProjectile/FpBaseBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Generation/Despawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/UiEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors/PlanetBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/PointsPopup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors/NormalPlanetBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors/FollowProjectile/PlayerProjectileBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/GameMode.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/CameraCollider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/UIEventHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PointsPopup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/CameraFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/FollowEnemyBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/FollowProjectileBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors/FollowProjectile/FPBaseBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Generation/Despawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BlackHoleBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors/FollowProjectile/FollowProjectileBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors/QuickJumpAbility.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors/MeteorMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/loadingBar/scripts/SimpleLoading.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/SimpleLoading.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors/SpikePlanetBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors/BlackHoleBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors/SunBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors/NormalPlanetBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors/Abilities/QuickJumpAbility.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors/PlanetBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Generation/LevelGeneration.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors/FollowProjectile/PlayerProjectileBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/PointsPopup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors/HealthPickup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors/CoinsPickup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors/FollowProjectile/FpBaseBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/UiEventHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/GameMode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors/PlayerMovement.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U1ShvxJuuHxtFJEcZV2PdbSuow" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a474d9e-01b9-4e8f-9f30-5bec0aa5919c" name="Default Changelist" comment="" />
+      <created>1574522737185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574522737185</updated>
+      <workItem from="1574522756068" duration="7428000" />
+      <workItem from="1574607370422" duration="629000" />
+      <workItem from="1575120078230" duration="926000" />
+      <workItem from="1575195174978" duration="10427000" />
+      <workItem from="1577352153325" duration="1856000" />
+      <workItem from="1577440498111" duration="11980000" />
+      <workItem from="1577532550089" duration="11358000" />
+      <workItem from="1577699935944" duration="16634000" />
+      <workItem from="1577783951012" duration="5843000" />
+      <workItem from="1577898213311" duration="2690000" />
+      <workItem from="1578042712069" duration="18219000" />
+      <workItem from="1578131959547" duration="17182000" />
+      <workItem from="1578294318576" duration="7699000" />
+      <workItem from="1578324894296" duration="2563000" />
+      <workItem from="1578380722011" duration="10439000" />
+      <workItem from="1578476476795" duration="9191000" />
+      <workItem from="1578505138421" duration="2346000" />
+      <workItem from="1578553113278" duration="5949000" />
+      <workItem from="1578560466421" duration="2559000" />
+      <workItem from="1578649996941" duration="5318000" />
+      <workItem from="1578666099259" duration="5806000" />
+      <workItem from="1578746149944" duration="5591000" />
+      <workItem from="1578830710431" duration="4496000" />
+      <workItem from="1578898805721" duration="13540000" />
+      <workItem from="1578933272227" duration="17000" />
+      <workItem from="1578933403668" duration="67000" />
+      <workItem from="1578933508530" duration="700000" />
+      <workItem from="1578934450761" duration="394000" />
+      <workItem from="1578985707302" duration="68000" />
+      <workItem from="1578985834833" duration="6357000" />
+      <workItem from="1579019548102" duration="2669000" />
+      <workItem from="1579090546584" duration="13000" />
+      <workItem from="1579091620780" duration="7244000" />
+      <workItem from="1579100645749" duration="3409000" />
+      <workItem from="1579157611198" duration="8891000" />
+      <workItem from="1579180713236" duration="11783000" />
+      <workItem from="1579540408799" duration="3861000" />
+      <workItem from="1579589034852" duration="7198000" />
+      <workItem from="1579612474182" duration="8049000" />
+      <workItem from="1579626700565" duration="943000" />
+      <workItem from="1579784638484" duration="110000" />
+      <workItem from="1579799606738" duration="101000" />
+      <workItem from="1579801841561" duration="437000" />
+      <workItem from="1579802376922" duration="20000" />
+      <workItem from="1579803552820" duration="2722000" />
+      <workItem from="1579848619733" duration="5557000" />
+      <workItem from="1579867949501" duration="704000" />
+      <workItem from="1579942574710" duration="10600000" />
+      <workItem from="1579986622870" duration="445000" />
+      <workItem from="1580046930511" duration="5816000" />
+      <workItem from="1580107393505" duration="617000" />
+      <workItem from="1580114214067" duration="3189000" />
+      <workItem from="1580153653036" duration="689000" />
+      <workItem from="1580196175505" duration="2939000" />
+      <workItem from="1580219957407" duration="7202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

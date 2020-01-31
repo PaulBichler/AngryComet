@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Paul\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Paul\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_AngryComet.-641144931.00" t="ExcludeRecursive" />
+    <e p="D:\BTS\OneDrive - 365education\Semester3\AngryComet" t="IncludeRecursive">
+      <e p="AngryComet.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Assets" t="Include">
+          <e p="Planets" t="Include">
+            <e p="TXT" t="Include">
+              <e p="license.txt" t="Include" />
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Behaviors" t="Include">
+            <e p="MeteorMovement.cs" t="Include" />
+            <e p="NormalPlanetBehavior.cs" t="Include" />
+            <e p="PlanetBehavior.cs" t="Include" />
+            <e p="SpikePlanetBehavior.cs" t="Include" />
+          </e>
+          <e p="Game" t="Include">
+            <e p="CameraFollow.cs" t="Include" />
+            <e p="GameMode.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+          </e>
+          <e p="Generation" t="Include">
+            <e p="Despawner.cs" t="Include" />
+            <e p="LevelGeneration.cs" t="Include" />
+          </e>
+          <e p="Laser.cs" t="Include" />
+        </e>
+        <e p="SimpleFX" t="Include">
+          <e p="Materials" t="Include">
+            <e p="UnlitVertexColour_Alpha.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
