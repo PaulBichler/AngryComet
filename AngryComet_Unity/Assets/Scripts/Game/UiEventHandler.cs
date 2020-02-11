@@ -166,9 +166,9 @@ namespace Game
 
         void ShowUpgrades()
         {
-            //upgrades are only available if player is logged in
-            if (Player.instance.IsLoggedIn)
-            {
+            //upgrades are only available if player is logged in (removed for git version)
+            //if (Player.instance.IsLoggedIn)
+            //{
                 //Display the Upgrades menu and hide the main menu
                 mainMenuPanel.SetActive(false);
                 upgradesMenuPanel.SetActive(true);
@@ -176,11 +176,11 @@ namespace Game
                 
                 //Reload upgrade icons and progress
                 ReloadUiUpgrades();
-            }
+            /*}
             else
             {
                 ShowNotificationPopup("Please log-in to access the upgrades!", Color.red);
-            }
+            }*/
         }
 
         void ShowLogin()
